@@ -1,0 +1,13 @@
+﻿  faced-etect.cpp
+D:\CodeC++\Python-3.8.5\facedetec\facedetec\faced-etect.cpp(110,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CodeC++\Python-3.8.5\facedetec\facedetec\faced-etect.cpp(125,1): warning C4273: “facedetect”: dll 链接不一致
+D:\CodeC++\Python-3.8.5\facedetec\facedetec\facedetectapi.h(42,21): message : 参见“facedetect”的前一个定义
+D:\CodeC++\Python-3.8.5\facedetec\facedetec\faced-etect.cpp(165,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\CodeC++\Python-3.8.5\facedetec\facedetec\faced-etect.cpp(166,18): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+    正在创建库 D:\CodeC++\Python-3.8.5\facedetec\facedetec\x64\Release\facedetec.lib 和对象 D:\CodeC++\Python-3.8.5\facedetec\facedetec\x64\Release\facedetec.exp
+  正在生成代码
+  2 of 191 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  facedetec.vcxproj -> D:\CodeC++\Python-3.8.5\facedetec\facedetec\x64\Release\facedetec.dll
