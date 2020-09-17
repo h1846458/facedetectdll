@@ -1,0 +1,10 @@
+README.txt
+setup.py
+facedetection/__init__.py
+facedetection/facedetec.dll
+facedetection/facedetect.py
+facedetection/opencv_world412.dll
+facedetection.egg-info/PKG-INFO
+facedetection.egg-info/SOURCES.txt
+facedetection.egg-info/dependency_links.txt
+facedetection.egg-info/top_level.txt

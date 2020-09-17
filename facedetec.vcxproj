@@ -83,6 +83,7 @@
     <LinkIncremental>false</LinkIncremental>
     <LibraryPath>D:\CodeC++\Python-3.8.5\facedetec\facedetec\lib;D:\CodeC++\Python-3.8.5\facedetec\facedetec\opencv\lib;$(LibraryPath)</LibraryPath>
     <IncludePath>D:\opencv\build\include\opencv2;D:\opencv\build\include;$(IncludePath)</IncludePath>
+    <OutDir>$(SolutionDir)facedect\facedetection</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

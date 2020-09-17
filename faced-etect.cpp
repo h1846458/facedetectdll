@@ -164,7 +164,7 @@ int facedetect(MsgCallback func, char* path)
 			faces.h = h;
 			faces.confidence = confidence;
 			faces.angle = angle;
-			Rect croprect = Rect(x, y, w, y);
+			Rect croprect = Rect(x, y, w, h);
 			Mat cropimg = image(croprect);
 			string img_base64_origin = Mat2Base64(image, pform);
 			string	img_base64_crop = Mat2Base64(cropimg, pform);
